@@ -11,8 +11,8 @@ var development = {
     },
     "Web Development" : {
         "Languages" : [ "HTML" , "CSS", "JavaScript", "TypeScript" , "Lua" ] ,
-        "Frameworks & Libraries" : [ "Node.js", "Express.js", "MongoDB", 
-                                   "React", "Bootstrap", "Redux" , "Postman"]
+        "Frameworks & Libraries" : [ "Node.js", "Express.js", "Three.js", "MongoDB", 
+                                   "React", "Bootstrap", "Redux" , "Postman", "Vite"]
     },
     "Content Creation and Design" : {
         "Languages" : ["English", "Hindi", "Marathi" , "French"] ,
