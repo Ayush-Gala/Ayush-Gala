@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Gala</h1>
-<h3 align="center">A budding Software, IOT and Video-game developer from Maharashtra, India</h3>
+<h3 align="center">A budding Software, IOT and Indie-game developer from India</h3>
 
 
 ```sh
