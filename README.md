@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Gala</h1>
-<h3 align="center">A budding Software, IOT and Indie-game developer from India <img align="right"src="https://komarev.com/ghpvc/?username=ayush-gala&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-gala" /></h3>
+
+<h3 align="center">A budding Software, IOT and Indie-game developer from India <img align="right" src="https://komarev.com/ghpvc/?username=ayush-gala&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-gala" /></h3>
 
 <p align = "center">
 	<img src = "readmegif.gif" width = "800">
