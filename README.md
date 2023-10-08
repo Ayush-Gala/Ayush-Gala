@@ -2,9 +2,6 @@
 
 <h3 align="center">A budding Software, IOT and Indie-game developer from India</h3>
 
-
-<img align="right" src="https://komarev.com/ghpvc/?username=ayush-gala&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-gala" />
-
 <p align = "center">
 	<img src = "readmegif.gif" width = "800">
 </p>
@@ -74,7 +71,7 @@ var experience = {
   <a href="https://git.io/streak-stats" title="Go to Source">
       <img align="right" width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=Ayush-Gala&theme=react&border=61DAFB&fire=DDB80F"/>
  </a>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><img align="right" src="https://komarev.com/ghpvc/?username=ayush-gala&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-gala" /><br><br><br><br>
 
 
 - Thanks for visiting this profile. Follow me to get all the updates about my repositories, games and my open source work!
