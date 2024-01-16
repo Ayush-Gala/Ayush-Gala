@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Gala</h1>
 
-<h3 align="center">A budding AI, Backend, IoT and Indie-game developer and researcher from India</h3>
+<h3 align="center">A budding AI, Full-Stack, IoT, and Indie-game developer and researcher from India</h3>
 
 <p align = "center">
 	<img src = "readmegif.gif" width = "800">
