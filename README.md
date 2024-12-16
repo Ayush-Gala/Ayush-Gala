@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Gala</h1>
 
-<h3 align="center">A budding AI, Full-Stack, IoT, and Indie-game developer and researcher from Raleigh, North Carolina</h3>
+<h3 align="center">A budding Systems Engineer specializing in High-Performance Computing research from Raleigh, North Carolina. I also enjoy Indie-game development and actively study AI/ML research happening worldwide.</h3>
 
 <p align = "center">
 	<img src = "readmegif.gif" width = "800">
