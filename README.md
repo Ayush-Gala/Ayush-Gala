@@ -14,7 +14,6 @@ var courses = {
 	"Data Science": ["Automated Learning & Data Analysis", "Advanced Neural Networks"]
     },
 
-
     "Undergraduate Level": {
         "Core": ["Data Structures & Algorithms", "Databases", "Computer Networks & Security", "Big Data Analysis",
 					"System Programming & OS", "Microprocessor"],
@@ -22,7 +21,6 @@ var courses = {
 	"Honors": ["Artificial Intelligence", "Machine Learning", "Deep Learning", "Fuzzy Logic"],
 	"Mathematics": ["Discrete Maths", "Calculus I", "Calculus II", "Computer Logic"]
     },
-
 
     "Specialized Topics": {
         "Research": ["Noise Cancellation in Indic Speech", "BLE Proximity Detection for Tourism", 
@@ -38,7 +36,6 @@ var development = {
     	"Technologies" : ["CUDA", "OpenMP", "Tesseract OCR", "GPT-3.5", "NumPy", "Pandas", "Matplotlib",
 					"Seaborn", "NLTK", "SpaCy"]
     },
-
 
     "Web & DevOps" : {
         "Languages" : ["HTML", "CSS", "JavaScript", "TypeScript", "Java", "Lua", "PHP", "SQL"],
