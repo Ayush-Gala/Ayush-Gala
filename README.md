@@ -7,11 +7,34 @@
 </p>
 
 ```sh
+
+var courses = {
+    "Graduate Level": {
+        "Core": ["Operating Systems", "Parallel Computer Architecture", "Parallel Systems", "Software Engineering"],
+	"Data Science": ["Automated Learning & Data Analysis", "Advanced Neural Networks"]
+    },
+    "Undergraduate Level": {
+        "Core": ["Data Structures & Algorithms", "Databases", "Computer Networks & Security", "Big Data Analysis",
+					"System Programming & OS", "Microprocessor"],
+        "Electives": ["High-Performance Computing", "Cybersecurity", "Internet of Things", "Pattern Recognition"],
+	"Honors": ["Artificial Intelligence", "Machine Learning", "Deep Learning", "Fuzzy Logic"],
+	"Mathematics": ["Discrete Maths", "Calculus I", "Calculus II", "Computer Logic"]
+    },
+    "Specialized Topics": {
+        "Research": ["Noise Cancellation in Indic Speech", "BLE Proximity Detection for Tourism", 
+                     "Hybrid Sampling in Network Intrusion Detection Systems"],
+        "Tools & Applications": ["CUDA Programming", "OpenMP Programming", "OCR", 
+                                  "LLMs", "SaaS Development"]
+    }
+};
+
 var development = {
     "AI & Machine Learning": {
     	"Frameworks" : ["TensorFlow", "Keras", "PyTorch", "Scikit-learn", "DeepFilterNet3", "SpeechBrain"],
-    	"Technologies" : ["CUDA", "OpenMP", "Tesseract OCR", "GPT-3.5", "NumPy", "Pandas", "Matplotlib", "Seaborn", "NLTK", "SpaCy"]
-    }
+    	"Technologies" : ["CUDA", "OpenMP", "Tesseract OCR", "GPT-3.5", "NumPy", "Pandas", "Matplotlib",
+					"Seaborn", "NLTK", "SpaCy"]
+    },
+
 
     "Web & DevOps" : {
         "Languages" : ["HTML", "CSS", "JavaScript", "TypeScript", "Java", "Lua", "PHP", "SQL"],
@@ -19,10 +42,12 @@ var development = {
                                      "MongoDB", "SQL", "React", "Postman", "Next.js", "Electron.js"],
         "Tools & Technologies" : ["Docker", "Kubernetes", "Jenkins", "AWS", "Git", "Linux"]
     },
+
     "Game Development": {
         "Languages" : ["Lua" , "C#" , "Python" , "C++" , "JavaScript"],
         "Frameworks & Tools" : ["LÖVE2D", "Unity", "Blender", "Tiled", "Adobe Photoshop"]
     },
+
     "IOT & Embedded Systems" : {
         "Languages" : ["Embedded C", "Assembly", "Python"],
         "Frameworks & Tools" : ["ThingSpeak", "AWS", "RaspberryPi", "ESP32", "Arduino", "BLE"]
@@ -35,6 +60,7 @@ var experience = {
                        "TypeScript", "SQL", "HTML & CSS", "PHP", "Dart"],
         "Frameworks" : ["Node.js", "React.js", "Express.js", "Three.js", "Flutter", "Next.js", "Electron.js"]
     },
+
     "Skills": {
         "Languages" : ["English", "Hindi", "Marathi", "Gujarati", "French"],
         "Design": ["Figma", "Adobe Photoshop", "Adobe Illustrator", "Blender", "Canva"],
