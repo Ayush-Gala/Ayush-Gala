@@ -8,14 +8,20 @@
 
 ```sh
 var development = {
+    "AI & Machine Learning": {
+    	"Frameworks" : ["TensorFlow", "Keras", "PyTorch", "Scikit-learn", "DeepFilterNet3", "SpeechBrain"],
+    	"Technologies" : ["CUDA", "OpenMP", "Tesseract OCR", "GPT-3.5", "NumPy", "Pandas", "Matplotlib", "Seaborn", "NLTK", "SpaCy"]
+    }
+
+    "Web & DevOps" : {
+        "Languages" : ["HTML", "CSS", "JavaScript", "TypeScript", "Java", "Lua", "PHP", "SQL"],
+        "Frameworks & Libraries" : ["Android Studio", "Node.js", "Express.js", "Three.js",
+                                     "MongoDB", "SQL", "React", "Postman", "Next.js", "Electron.js"],
+        "Tools & Technologies" : ["Docker", "Kubernetes", "Jenkins", "AWS", "Git", "Linux"]
+    },
     "Game Development": {
         "Languages" : ["Lua" , "C#" , "Python" , "C++" , "JavaScript"],
         "Frameworks & Tools" : ["LÖVE2D", "Unity", "Blender", "Tiled", "Adobe Photoshop"]
-    },
-    "Web & App Development" : {
-        "Languages" : ["HTML", "CSS", "JavaScript", "TypeScript", "Lua", "Dart"],
-        "Frameworks & Libraries" : ["Flutter", "Android Studio", "Node.js", "Express.js", "Three.js",
-                                   "MongoDB", "SQL", "React", "Postman"]
     },
     "IOT & Embedded Systems" : {
         "Languages" : ["Embedded C", "Assembly", "Python"],
@@ -26,17 +32,18 @@ var development = {
 var experience = {
     "Programming": {
         "Languages" : ["Embedded C", "C++", "C#", "Java", "Python", "Lua", "x86 Assembly", "JavaScript",
-                      "TypeScript", "SQL", "HMTL & CSS", "PHP", "Dart"],
-        "Frameworks" : ["Node.js", "React.js", "Express.js", "Three.js", "Flutter"]
+                       "TypeScript", "SQL", "HTML & CSS", "PHP", "Dart"],
+        "Frameworks" : ["Node.js", "React.js", "Express.js", "Three.js", "Flutter", "Next.js", "Electron.js"]
     },
     "Skills": {
-        "Languages" : ["English", "Hindi", "Marathi", "Gujrati", "French"],
+        "Languages" : ["English", "Hindi", "Marathi", "Gujarati", "French"],
         "Design": ["Figma", "Adobe Photoshop", "Adobe Illustrator", "Blender", "Canva"],
         "Content": ["Editing", "Grammarly", "Proofreading", "Documentation"],
         "Marketing": ["Sourcing", "Partnerships", "Budget Management", "Social Media management"],
         "Public Speaking": ["Compeering", "Speech", "Debate", "Discussion"]
     }
-}
+};
+
 ```
 <!-- <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
