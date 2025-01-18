@@ -13,6 +13,8 @@ var courses = {
         "Core": ["Operating Systems", "Parallel Computer Architecture", "Parallel Systems", "Software Engineering"],
 	"Data Science": ["Automated Learning & Data Analysis", "Advanced Neural Networks"]
     },
+
+
     "Undergraduate Level": {
         "Core": ["Data Structures & Algorithms", "Databases", "Computer Networks & Security", "Big Data Analysis",
 					"System Programming & OS", "Microprocessor"],
@@ -20,6 +22,8 @@ var courses = {
 	"Honors": ["Artificial Intelligence", "Machine Learning", "Deep Learning", "Fuzzy Logic"],
 	"Mathematics": ["Discrete Maths", "Calculus I", "Calculus II", "Computer Logic"]
     },
+
+
     "Specialized Topics": {
         "Research": ["Noise Cancellation in Indic Speech", "BLE Proximity Detection for Tourism", 
                      "Hybrid Sampling in Network Intrusion Detection Systems"],
