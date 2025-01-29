@@ -96,19 +96,10 @@ var experience = {
 </p>
 
 <p align="center">
-	<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-gala&show_icons=true&locale=en" alt="ayush-gala" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-gala&show_icons=true&locale=en" alt="ayush-gala" />
 	<img align="right" src="https://komarev.com/ghpvc/?username=ayush-gala&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-gala" />
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Ayush-Gala&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
- </a>
-  <a href="https://git.io/streak-stats" title="Go to Source">
-      <img align="right" width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=Ayush-Gala&theme=react&border=61DAFB&fire=DDB80F"/>
- </a>
-<br><br><br><br><br><br><br><br><br>
-
-
-- Thanks for visiting this profile. Follow me to get all the updates about my repositories, games and my open source work!
+ - Thanks for visiting this profile. Follow me to get all the updates about my repositories, games and my open source work!
 <h1 align = "center">HAVE A WONDERFUL DAY! ❤</h1>
 <br>
