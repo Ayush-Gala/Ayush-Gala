@@ -1,77 +1,106 @@
 <h1 align="center">Hi 👋, I'm Ayush Gala</h1>
 
-<h3 align="center">A budding computer scientist from Raleigh, North Carolina, interested in Software Development, System Design, and High-Performance Computing research. I also enjoy Indie-game development and actively study AI/ML research happening worldwide.</h3>
+<h3 align="center">
+  A curious computer scientist from Raleigh, North Carolina,<br>
+  passionate about building robust systems and exploring high-performance computing.<br>
+  I also enjoy indie game dev and love diving into the latest AI/ML research.
+</h3>
 
-<p align = "center">
-	<img src = "readmegif.gif" width = "800">
+<p align="center">
+  <img src="readmegif.gif" width="800" alt="animation">
 </p>
 
-```sh
+---
 
-var courses = {
-    "Graduate Level": {
-        "Core": ["Operating Systems", "Parallel Computer Architecture", "Parallel Systems", "Software Engineering"],
-	"Data Science": ["Automated Learning & Data Analysis", "Advanced Neural Networks"]
-    },
+## 🔭 Interests
+- **Distributed Systems** · **Software Infrastructure** · **Backend Development**
+- **Operating Systems** · **DevOps & CI/CD Pipelines** · **Parallel & Concurrent Programming**
+- **High-Performance Computing** · **Systems Programming in C, C++, and Go**
+- Also into: AI/ML Research, Indie Game Development, IoT & Embedded Systems
 
-    "Undergraduate Level": {
-        "Core": ["Data Structures & Algorithms", "Databases", "Computer Networks & Security", "Big Data Analysis",
-					"System Programming & OS", "Microprocessor"],
-        "Electives": ["High-Performance Computing", "Cybersecurity", "Internet of Things", "Pattern Recognition"],
-	"Honors": ["Artificial Intelligence", "Machine Learning", "Deep Learning", "Fuzzy Logic"],
-	"Mathematics": ["Discrete Maths", "Calculus I", "Calculus II", "Computer Logic"]
-    },
+---
 
-    "Specialized Topics": {
-        "Research": ["Noise Cancellation in Indic Speech", "BLE Proximity Detection for Tourism", 
-                     "Hybrid Sampling in Network Intrusion Detection Systems"],
-        "Tools & Applications": ["CUDA Programming", "OpenMP Programming", "OCR", 
-                                  "LLMs", "SaaS Development"]
-    }
-};
+<details>
+  <summary><strong>📘 Academic Background</strong></summary>
 
-var development = {
-    "AI & Machine Learning": {
-    	"Frameworks" : ["TensorFlow", "Keras", "PyTorch", "Scikit-learn", "DeepFilterNet3", "SpeechBrain"],
-    	"Technologies" : ["CUDA", "OpenMP", "Tesseract OCR", "GPT-3.5", "NumPy", "Pandas", "Matplotlib",
-					"Seaborn", "NLTK", "SpaCy"]
-    },
+### 🎓 Graduate Coursework
+- **Core:** Operating Systems, Parallel Computer Architecture, Parallel Systems, Software Engineering  
+- **AI/ML:** Automated Learning & Data Analysis, Advanced Neural Networks  
 
-    "Web & DevOps" : {
-        "Languages" : ["HTML", "CSS", "JavaScript", "TypeScript", "Java", "Lua", "PHP", "SQL"],
-        "Frameworks & Libraries" : ["Android Studio", "Node.js", "Express.js", "Three.js",
-                                     "MongoDB", "SQL", "React", "Postman", "Next.js", "Electron.js"],
-        "Tools & Technologies" : ["Docker", "Kubernetes", "Jenkins", "AWS", "Git", "Linux"]
-    },
+### 🎓 Undergraduate Coursework
+- **Core:** Data Structures & Algorithms, Databases, Computer Networks & Security, System Programming & OS, Microprocessors  
+- **Electives:** High-Performance Computing, Cybersecurity, IoT, Pattern Recognition  
+- **Honors:** Artificial Intelligence, Machine Learning, Deep Learning, Fuzzy Logic  
+- **Math:** Discrete Mathematics, Calculus I & II, Computer Logic  
 
-    "Game Development": {
-        "Languages" : ["Lua" , "C#" , "Python" , "C++" , "JavaScript"],
-        "Frameworks & Tools" : ["LÖVE2D", "Unity", "Blender", "Tiled", "Adobe Photoshop"]
-    },
+</details>
 
-    "IOT & Embedded Systems" : {
-        "Languages" : ["Embedded C", "Assembly", "Python"],
-        "Frameworks & Tools" : ["ThingSpeak", "AWS", "RaspberryPi", "ESP32", "Arduino", "BLE"]
-    }
-};
+---
 
-var experience = {
-    "Programming": {
-        "Languages" : ["Embedded C", "C++", "C#", "Java", "Python", "Lua", "x86 Assembly", "JavaScript",
-                       "TypeScript", "SQL", "HTML & CSS", "PHP", "Dart"],
-        "Frameworks" : ["Node.js", "React.js", "Express.js", "Three.js", "Flutter", "Next.js", "Electron.js"]
-    },
+<details>
+  <summary><strong>🛠️ Tech Stack</strong></summary>
 
-    "Skills": {
-        "Languages" : ["English", "Hindi", "Marathi", "Gujarati", "French"],
-        "Design": ["Figma", "Adobe Photoshop", "Adobe Illustrator", "Blender", "Canva"],
-        "Content": ["Editing", "Grammarly", "Proofreading", "Documentation"],
-        "Marketing": ["Sourcing", "Partnerships", "Budget Management", "Social Media management"],
-        "Public Speaking": ["Compeering", "Speech", "Debate", "Discussion"]
-    }
-};
+### 🔧 Systems, HPC, & AI
+- **Languages:** C, C++, Go, Python, Rust, Assembly (x86)
+- **Parallelism:** CUDA, OpenMP, MPI, Slurm
+- **ML Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn, DeepFilterNet3
 
-```
+### 🌐 Web & DevOps
+- **Languages:** Java, Javascript, TypeScript, HTML/CSS, SQL, PHP
+- **Frameworks:** Svelte, React.js, Express.js, Next.js, Electron.js, REST API
+- **DevOps Tools:** Git, Linux, Docker, Kubernetes, Jenkins, AWS
+
+### 🕹️ Indie Game Dev & Creative Tools
+- **Languages:** C#, Lua, Python
+- **Tools:** Unity, LÖVE2D, Blender, Tiled, Adobe Photoshop, Figma
+
+### 🔌 IoT & Embedded
+- **Devices:** Raspberry Pi, ESP32, Arduino
+- **Frameworks:** ThingSpeak, AWS IoT
+- **Languages:** Embedded C, Python, Assembly
+
+</details>
+
+---
+
+<details>
+  <summary><strong>🔬 Research & Projects</strong></summary>
+
+- 📢 **Noise Cancellation in Indic Speech** – SpeechBrain & DeepFilterNet3  
+- 🧭 **BLE Proximity Detection** – Tourism apps with ESP32  
+- 🔐 **Hybrid Sampling for Intrusion Detection** – Optimizing NIDS performance  
+- 🧠 **LLM Applications** – Integrating GPT into educational & SaaS tools  
+- 🧰 **SaaS Platforms** – Full-stack tools for phishing simulation & report analysis  
+
+</details>
+
+---
+
+<details>
+  <summary><strong>🧠 Experience & Skills</strong></summary>
+
+### 💻 Programming Languages
+C · C++ · Go · Python · Java · JavaScript · TypeScript · Lua · SQL · HTML/CSS · Embedded C · x86 Assembly
+
+### 🎨 Design & Creativity
+Figma · Adobe Photoshop/Illustrator · Blender · Canva  
+Editing · Proofreading · Technical Documentation
+
+### 🌍 Languages Spoken
+English · Hindi · Marathi · Gujarati · French
+
+### 🎤 Communication
+Public Speaking · Debates · Compeering · Panel Discussions
+
+</details>
+
+---
+
+<p align="center">
+  <i>Always building, always learning. Let’s talk systems, scale, and speed!</i>
+</p>
+
+
 <!-- <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash10102002&langs_count=20&theme=highcontrast&layout=compact" />
