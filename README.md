@@ -2,8 +2,8 @@
 
 <h3 align="center">
   A curious computer scientist from Raleigh, North Carolina,<br>
-  passionate about building robust systems and exploring high-performance computing.<br>
-  I also enjoy indie game dev and love diving into the latest AI/ML research.
+  passionate about building scalable and reliable systems and exploring high-performance computing.<br>
+  I also enjoy developing systems software and diving into the latest AI/ML research.
 </h3>
 
 <p align="center">
