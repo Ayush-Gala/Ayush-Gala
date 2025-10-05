@@ -13,8 +13,8 @@
 ---
 
 ## 🔭 Interests
-- **Distributed Systems** · **Software Infrastructure** · **Backend Development**
-- **Operating Systems** · **DevOps & CI/CD Pipelines** · **Parallel & Concurrent Programming**
+- **Distributed Systems** · **Cloud Architecture** · **Backend Development**
+- **Operating Systems** · **DevOps & CI/CD Pipelines** · **Parallel Systems**
 - **High-Performance Computing** · **Systems Programming in C, C++, and Go**
 - Also into: AI/ML Research, Indie Game Development, IoT & Embedded Systems
 
@@ -24,14 +24,14 @@
   <summary><strong>📘 Academic Background</strong></summary>
 
 ### 🎓 Graduate Coursework
-- **Core:** Operating Systems, Parallel Computer Architecture, Parallel Systems, Software Engineering  
+- **Core:** Operating Systems, Parallel Systems, Cloud Architecture, Software Engineering, Advanced Computer Architecture & Multiprocessors, Design & Analysis of Algorithms
 - **AI/ML:** Automated Learning & Data Analysis, Advanced Neural Networks  
 
 ### 🎓 Undergraduate Coursework
-- **Core:** Data Structures & Algorithms, Databases, Computer Networks & Security, System Programming & OS, Microprocessors  
+- **Core:** Data Structures, Algorithms, Databases, Computer Networks & Security, System Programming & OS, Microprocessors  
 - **Electives:** High-Performance Computing, Cybersecurity, IoT, Pattern Recognition  
 - **Honors:** Artificial Intelligence, Machine Learning, Deep Learning, Fuzzy Logic  
-- **Math:** Discrete Mathematics, Calculus I & II, Computer Logic  
+- **Math:** Discrete Mathematics, Calculus I, II, III, Digital Logic
 
 </details>
 
@@ -40,24 +40,26 @@
 <details>
   <summary><strong>🛠️ Tech Stack</strong></summary>
 
-### 🔧 Systems, HPC, & AI
-- **Languages:** C, C++, Go, Python, Rust, Assembly (x86)
-- **Parallelism:** CUDA, OpenMP, MPI, Slurm
-- **ML Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn, DeepFilterNet3
+### 🔧 Systems Software, HPC and Cloud 
+- **Languages:** C, C++, Go, Python, Assembly
+- **HPC Tools:** Slurm, Lustre, Singularity(Apptainer), CharlieCloud
+- **Distributed:** Raft, gRPC, Zookeeper, etcd, Kafka
+- **Parallelism:** CUDA, OpenMP, MPI, Intel AVX/SIMD, Spark/Hadoop
+- **Cloud:** AWS (EC2, S3, VPC), Jenkins, Kubernetes, Terraform, Monitoring/Logging (CloudWatch, Grafana, ELK Stack)
+- **Hardware:** Infiniband, Verilog, RTL
 
 ### 🌐 Web & DevOps
 - **Languages:** Java, Javascript, TypeScript, HTML/CSS, SQL, PHP
 - **Frameworks:** Svelte, React.js, Express.js, Next.js, Electron.js, REST API
 - **DevOps Tools:** Git, Linux, Docker, Kubernetes, Jenkins, AWS
 
+### 🧠 Artificial Intelligence and ML
+- **Languages:** Python, R
+- **Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn, DeepFilterNet3, Langchain
+
 ### 🕹️ Indie Game Dev & Creative Tools
 - **Languages:** C#, Lua, Python
 - **Tools:** Unity, LÖVE2D, Blender, Tiled, Adobe Photoshop, Figma
-
-### 🔌 IoT & Embedded
-- **Devices:** Raspberry Pi, ESP32, Arduino
-- **Frameworks:** ThingSpeak, AWS IoT
-- **Languages:** Embedded C, Python, Assembly
 
 </details>
 
@@ -73,28 +75,6 @@
 - 🧰 **SaaS Platforms** – Full-stack tools for phishing simulation & report analysis  
 
 </details>
-
----
-
-<details>
-  <summary><strong>🧠 Experience & Skills</strong></summary>
-
-### 💻 Programming Languages
-C · C++ · Go · Python · Java · JavaScript · TypeScript · Lua · SQL · HTML/CSS · Embedded C · x86 Assembly
-
-### 🎨 Design & Creativity
-Figma · Adobe Photoshop/Illustrator · Blender · Canva  
-Editing · Proofreading · Technical Documentation
-
-### 🌍 Languages Spoken
-English · Hindi · Marathi · Gujarati · French
-
-### 🎤 Communication
-Public Speaking · Debates · Compeering · Panel Discussions
-
-</details>
-
----
 
 <p align="center">
   <i>Always building, always learning. Let’s talk systems, scale, and speed!</i>
