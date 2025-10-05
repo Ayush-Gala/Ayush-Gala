@@ -104,10 +104,10 @@
 	<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Gala&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-gala&show_icons=true&locale=en" alt="ayush-gala" />
 	<img align="right" src="https://komarev.com/ghpvc/?username=ayush-gala&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-gala" />
-</p>
+</p> -->
 
  - Thanks for visiting this profile. Follow me to get all the updates about my repositories, games and my open source work!
 <h1 align = "center">HAVE A WONDERFUL DAY! ❤</h1>
