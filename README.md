@@ -3,7 +3,7 @@
 <h3 align="center">
   A curious computer scientist from Raleigh, North Carolina,<br>
   passionate about building scalable and reliable systems and exploring high-performance computing.<br>
-  I also enjoy developing systems software and diving into the latest AI/ML research.
+  I also enjoy studying system software and diving into the latest computer architecture and AI research.
 </h3>
 
 <p align="center">
